@@ -1,4 +1,4 @@
-# This should be a title
+# Projects
 
 ## Pig Game
 I worked on a project to develop a simple game called Pig Game using Python. The game involves players taking turns to roll a single die as many times as they wish, and adding all roll results to a running total of 100, but losing their gained score for the turn if they roll a 1. My team and I decided to convert a rolling dice to being able to play virtually, either by yourself or with another player, and with two versions of the game available to play.
