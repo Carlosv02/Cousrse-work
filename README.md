@@ -25,4 +25,13 @@ A drawing of a 2 Turbo V6 Engine using SolidWorks to gain a better understanding
   17. C. Retainer
   18. C. Bushings 
 
-Currently, 
+Currently, I'm drawing the air filter and will continue to finish this project. 
+
+## MemAid
+A fun, interactive game for people who have dementia or any sort of memory problems. This game prevents memory loss and stimulates their brain for an alloted time. It is a rectangular prism game board with color-shaped holes on top with a timer and drawer built in. Pawns with color-shaped bases and a triangular dice come included. The game can be played by a person or two and the rules are simple. The player remembers the shape and color of the pawns before inserting them into the board. Each turn the player rolls the dice and whatever it lands on, the player needs to remember a pawn that matches the shape and color from the dice and choose one. The player has a time limit which the player can set it to whatever time. Each time the player chooses the correct one, the player gets a point. 
+
+My team and I are on the last phase and will be 3D priniting it to present to our MEEN 210 class.
+
+## 3lb Combat Robot
+
+
