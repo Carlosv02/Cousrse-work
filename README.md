@@ -33,5 +33,5 @@ A fun, interactive game for people who have dementia or any sort of memory probl
 My team and I are on the last phase and will be 3D priniting it to present to our MEEN 210 class.
 
 ## 3lb Combat Robot
-
+Designing and building a 3lb combat robot for competition. I'm designing the armor of the robot which include the wedge, forks, and armor attachment. 
 
